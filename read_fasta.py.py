@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 def read_fasta(filename):
     seq = ''
@@ -16,8 +11,6 @@ def read_fasta(filename):
 print(read_fasta('ae.fa'))
 
 
-
-# In[ ]:
 
 
 
